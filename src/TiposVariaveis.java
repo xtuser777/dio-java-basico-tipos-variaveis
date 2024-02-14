@@ -4,11 +4,15 @@ public class TiposVariaveis {
         short ano = 2021;
         int cep = 21070333;
         long cpf = 45345345345345L;
-        float PI = 3.14F;
+        float pi = 3.14F;
         double salario = 1234.65;
 
         short numeroCurto = 1;
         int numberoNormal = numeroCurto;
         short numeroCurto2 = (short) numberoNormal;
+
+        final double PI = 3.24;
+
+        String meuNome = "Lucas";
     }
 }
