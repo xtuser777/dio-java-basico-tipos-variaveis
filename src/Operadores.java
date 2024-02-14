@@ -11,5 +11,11 @@ public class Operadores {
         concat = "1"+1+1+1;
 
         concat = "1"+(1+1+1);
+
+        int numero = 5;
+
+        numero = - 5;
+
+        numero = numero * -1;
     }
 }
