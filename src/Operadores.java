@@ -40,5 +40,8 @@ public class Operadores {
         boolean val4 = a >= b;
         boolean val5 = a < b;
         boolean val6 = a > b;
+
+        boolean con1 = val1 && val2;
+        boolean con2 = val3 || val4;
     }
 }
