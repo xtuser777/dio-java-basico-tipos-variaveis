@@ -17,5 +17,17 @@ public class Operadores {
         numero = - 5;
 
         numero = numero * -1;
+
+        numero++; //numero = numero + 1
+
+        ++numero;
+
+        numero--;
+
+        --numero;
+
+        boolean value = true;
+
+        value = !value; //value = false
     }
 }
