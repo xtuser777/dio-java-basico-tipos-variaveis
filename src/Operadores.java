@@ -33,5 +33,12 @@ public class Operadores {
         int a = 5, b = 5;
 
         int resultado = a == b ? 1 : 0;
+
+        boolean val1 = a == b; // a.equals(b)
+        boolean val2 = a != b;
+        boolean val3 = a <= b;
+        boolean val4 = a >= b;
+        boolean val5 = a < b;
+        boolean val6 = a > b;
     }
 }
