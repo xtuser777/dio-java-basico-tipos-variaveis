@@ -29,5 +29,9 @@ public class Operadores {
         boolean value = true;
 
         value = !value; //value = false
+
+        int a = 5, b = 5;
+
+        int resultado = a == b ? 1 : 0;
     }
 }
